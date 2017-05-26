@@ -1,0 +1,27 @@
+{
+	"baseUrl":"https://sellercentral.amazon.com",
+	"ffProfiles":"C:\\FirefoxProfilesBackup\\g64uw3d7.default\\",
+    "downLoadTemporaryPath":"C:\\Amazon\\",
+    "downLoadPath":"C:\\Amazon2\\",
+    "downLoadPathFinal":"C:\\Amazon3\\",
+    "eamilFromName":"czhou@sfcservice.com",
+    "emailToName":"czhou@sfcservice.com",
+    "emailTo":"czhou@sfcservice.com",
+    "emailToCcName":[
+        "czhou@sfcservice.com"
+    ],
+    "emailCc":[
+        "czhou@sfcservice.com"
+    ],
+    "emailSubject":"AmazonDownload",
+    "emailBody":"test.txt",
+    "smtpServer":"smtp.exmail.qq.com",
+    "emailFromSend":"czhou@sfcservice.com",
+    "emailPassword":"Sfc123",
+    "data":[       
+        {
+            "User":"tokyomkt@hotmail.com",
+            "Password":"tokyomkt01"
+        }  		
+    ]
+}
