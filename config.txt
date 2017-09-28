@@ -4,24 +4,24 @@
     "downLoadTemporaryPath":"C:\\Amazon\\",
     "downLoadPath":"C:\\Amazon2\\",
     "downLoadPathFinal":"C:\\Amazon3\\",
-    "eamilFromName":"czhou@sfcservice.com",
-    "emailToName":"czhou@sfcservice.com",
-    "emailTo":"czhou@sfcservice.com",
+    "eamilFromName":"czfghu@sfcsehfgice.com",
+    "emailToName":"czhfhg@sfcfghvice.com",
+    "emailTo":"cfhgou@sffhgrvice.com",
     "emailToCcName":[
-        "czhou@sfcservice.com"
+        "czfhgu@sffhgrvice.com"
     ],
     "emailCc":[
-        "czhou@sfcservice.com"
+        "czgfhfhou@sfcsfhghice.com"
     ],
     "emailSubject":"AmazonDownload",
     "emailBody":"test.txt",
     "smtpServer":"smtp.exmail.qq.com",
-    "emailFromSend":"czhou@sfcservice.com",
-    "emailPassword":"Sfc123",
+    "emailFromSend":"cfg@sfcserfghce.com",
+    "emailPassword":"fhfhc123",
     "data":[       
         {
-            "User":"tokyomkt@hotmail.com",
-            "Password":"tokyomkt01"
+            "User":"toktytt@hohfghfil.com",
+            "Password":"tofhhght01"
         }  		
     ]
 }
